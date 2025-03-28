@@ -1,5 +1,5 @@
 # E-comerce Pizzaria
- <h1 align="center">Projeto com bastante logica</h1>
+ <h1 align="center">Projeto com bastante logica e simulação de uma API com JSON</h1>
  <h2 align="center">Programador Front-End</h2>
  #<a href="https://kaesssantos.github.io/E-commerce-Pizzaria/">Projeto</a>
 
@@ -7,10 +7,10 @@
     <img alt="projeto portifólio" src="img/img-1.png" width="100%">
  </p>
  <p>
-    <img alt="projeto portifólio" src=".github/img-2.png" width="100%">
+    <img alt="projeto portifólio" src="img/img-2.png" width="100%">
  </p>
  <p>
-    <img alt="projeto portifólio" src=".github/img-3.png" width="50%">
+    <img alt="projeto portifólio" src="img/img-3.png" width="50%">
  </p>
 
 
