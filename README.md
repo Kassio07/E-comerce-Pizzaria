@@ -4,7 +4,7 @@
  #<a href="https://kaesssantos.github.io/E-commerce-Pizzaria/">Projeto</a>
 
  <p>
-    <img alt="projeto portifólio" src=".github/img-1.png" width="100%">
+    <img alt="projeto portifólio" src="img/img-1.png" width="100%">
  </p>
  <p>
     <img alt="projeto portifólio" src=".github/img-2.png" width="100%">
